@@ -1,0 +1,8 @@
+*.o
+*.mod
+*.out
+*~
+*\#
+*.dat
+bin
+data
